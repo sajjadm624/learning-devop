@@ -3,4 +3,4 @@ Started a new course with Techonize Learning with Shajal Vai and Aryan Ahmed Vai
 
 #### index
 
-- [Class 1 [Basic Python and DSA] (18/7/2021)](https://github.com/MimAhmed/Leet-Code-DSA-Interview-Bootcamp-Tecognize-/tree/main/Class%201)
+- [Class 1 [Basic Python and DSA] (18/7/2021)](https://github.com/sajjadm624/learning-devop/tree/main/class-1)
